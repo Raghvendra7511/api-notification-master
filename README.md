@@ -1,6 +1,6 @@
 # User Notification Preferences API
 
-This project is a Nest.js API for managing user notification preferences and sending notifications. The system handles user preferences for different notification types and manages notification delivery settings.
+A robust Nest.js-based API system for managing user notification preferences and delivering notifications across multiple channels. This service provides comprehensive control over notification settings, supporting email, SMS, and push notifications with customizable delivery frequencies.
 
 ## Table of Contents
 
@@ -20,19 +20,17 @@ This project is a Nest.js API for managing user notification preferences and sen
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Ensure you have the following installed before proceeding:
 
 - Node.js (v14.x or later)
 - npm (v6.x or later)
-- MongoDB (running locally or accessible via a URI)
-- Git
+- MongoDB (v4.x or later)
+- Git (v2.x or later)
 
 ## Setup
 
 ### Clone the Repository
 
-Clone the repository to your local machine:
-
 ```bash
-git clone https://github.com/yourusername/user-notification-preferences.git
-cd user-notification-preferences
+git clone https://github.com/raghvendra7511/api-notification-master.git
+cd api-notification-master
